@@ -12,5 +12,3 @@ Challenging projects and job opportunities where I can leverage my expertise in 
 
 ---
 *Always open to interesting collaborations and new challenges!*
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1gory&layout=compact&langs_count=6&hide=css,html,ruby,typescrypt)
