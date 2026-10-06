@@ -1,4 +1,6 @@
-## 👋 Hello! I'm a Full-Stack Developer
+## 👋 Hello! I'm Igor Pershin, a Full-Stack Developer
+
+🌐 **Website:** [ipershin.me](https://ipershin.me) — my indie games and Chrome extensions
 
 I'm a passionate software engineer with **10+ years of backend development experience** and a strong focus on modern web technologies. Currently seeking exciting opportunities to contribute to innovative projects.
 
